@@ -1,0 +1,5 @@
+C:\C#\TCPCliente\TCPCliente\TTCPCliente\bin\Debug\TCPCliente.dll
+C:\C#\TCPCliente\TCPCliente\TTCPCliente\bin\Debug\TCPCliente.pdb
+C:\C#\TCPCliente\TCPCliente\TTCPCliente\obj\Debug\TCPCliente.csprojResolveAssemblyReference.cache
+C:\C#\TCPCliente\TCPCliente\TTCPCliente\obj\Debug\TCPCliente.dll
+C:\C#\TCPCliente\TCPCliente\TTCPCliente\obj\Debug\TCPCliente.pdb
