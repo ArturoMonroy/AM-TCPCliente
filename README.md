@@ -12,7 +12,7 @@
 
 ` Exposed methods to use universally like C++ `
 
-# write, read, writeHex, readHex
+# writeHex, readHex
 ## Si la data que enviaras contiene algun caracter "0" (caracter terminador) puedes usar writeHex y/o readHex, pasa mucho en envio de tramas Base24/ISO8583. Envia la trama a enviar en Hexadecimal separado por ":".
 ## Data to send/read contains "0" character (end character) ? Base24/ISO8583 very common. Send data using hex format split with ":".
 
